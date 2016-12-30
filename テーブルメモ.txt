@@ -1,0 +1,90 @@
+/*** NavalDistrict ***/
+NavalDistrict			：鎮守府データテーブル
+
+/*** ExperiencePoint ***/
+EPPlayerTable			：提督必要経験値データテーブル
+EPCharacterTable		：艦娘必要経験値データテーブル
+
+/*** Character ***/
+CharacterTable			：艦娘基本データテーブル
+CharacterStatusTable		：ステータステーブル
+CharacterRankUpTable		：改装データテーブル
+CharacterDisposalTable		：解体時データテーブル
+CharacterBookTable		：図鑑データテーブル
+CharacterImageTable		：画像パスデータテーブル
+CharacterRenderTable		：描画データテーブル
+CharacterRecoveryTable		：回復時必要データテーブル
+
+/*** Enemy ***/
+EnemyTable			：深海棲艦基本データテーブル
+EnemyStatusTable		：ステータステーブル
+EnemyImageTable			：画像パスデータテーブル
+EnemyRenderTable		：描画データテーブル
+
+/*** Equipment ***/
+EquipmentTable			：装備基本データテーブル
+EquipmentStatusTable		：ステータステーブル
+EquipmentDisposalTable		：廃棄時データテーブル
+EquipmentBookTable		：図鑑データテーブル
+EquipmentImageTable		：画像パスデータテーブル
+
+/*** Item ***/
+ItemTable			：アイテムデータテーブル
+
+/*** Furniture ***/
+WallPaperTable			：壁紙データテーブル
+FloorTable			：床データテーブル
+DeskTable			：机＋椅子データテーブル
+CurtainTable			：窓枠＋カーテンデータテーブル
+DecorationTable			：装飾データテーブル
+FurnitureTable			：家具データテーブル
+
+/*** Waters ***/
+WatersMapTable			：海域データテーブル
+WatersStageTable		：ステージデータテーブル
+WatersPointTable		：マスデータテーブル
+
+/*** Mission ***/
+MissionTable			：任務データテーブル
+
+/*** Expedition ***/
+ExpeditionTable			：遠征データテーブル
+
+/*** Building ***/
+BuildingTable			：建造データテーブル
+BuildingTimeTable		：建造時間データテーブル
+
+/*** Development ***/
+DevelopmentTable		：開発データテーブル
+
+
+/*** Player ***/
+PlayerTable			：プレイヤーテーブル
+
+/*** ButtleRecord ***/
+ButtleRecordTable		：戦績テーブル
+
+/*** CaptureArea ***/
+CaptureAreaTable		：攻略海域データ
+
+/*** Fleet ***/
+fleetTable			：艦隊データ
+
+/*** Possession ***/
+PossessionCharacterTable	：所持艦娘テーブル
+PossessionEquipmentTable	：所持装備テーブル
+PossessionMaterialTable		：所持資材テーブル
+PossessionItemTable		：所持アイテムテーブル
+PossessionWallPaperTable	：所持壁紙テーブル
+PossessionFloorTable		：所持床テーブル
+PossessionDeskTable		：所持机＋椅子テーブル
+PossessionCurtainTable		：所持窓枠＋カーテンテーブル		
+PossessionDecorationTable	：所持装飾テーブル
+PossessionFurnitureTable	：所持家具テーブル
+
+/*** Order ***/
+OrdersMissionTable		：受注任務テーブル
+OrdersExpeditionTable		：受注遠征テーブル
+
+/*** Exercise ***/
+ExerciseTable			：演習相手情報テーブル
