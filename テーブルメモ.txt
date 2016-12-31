@@ -70,6 +70,9 @@ CaptureAreaTable		：攻略海域データ
 /*** Fleet ***/
 fleetTable			：艦隊データ
 
+/*** Log ***/
+LogTable			：ログデータ
+
 /*** Possession ***/
 PossessionCharacterTable	：所持艦娘テーブル
 PossessionEquipmentTable	：所持装備テーブル
